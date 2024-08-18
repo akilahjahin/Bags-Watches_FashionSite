@@ -283,8 +283,7 @@ span {
 }
 
 .purse {
-    transform: scale(1.05);
-    margin-top: -45px;
+    transform: scale(1.11);
 }
 
 .productBox:hover img {
