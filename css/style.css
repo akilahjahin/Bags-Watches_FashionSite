@@ -319,12 +319,14 @@ span {
 
 .aboutBox {
     width: 45%;
+    margin-left: 72px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .aboutBox img {
     width: 100%;
     height: 100%;
+    margin-left: 27px;
     object-fit: contain;
 }
 
@@ -358,6 +360,7 @@ span {
 }
 
 .aboutBox p {
+    width: 94.5%;
     font-size: 0.96rem;
     color: #bdbdbd;
     letter-spacing: 0.5px;
